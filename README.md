@@ -1,2 +1,1 @@
-# hello-word
-simple project hello word 
+jo, developpeur post 4
